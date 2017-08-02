@@ -1,3 +1,3 @@
 # SwiftyScount
 
-#scount-ios-swift
+#Amazing and Powerfull tracker 

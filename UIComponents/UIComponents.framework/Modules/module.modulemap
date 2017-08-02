@@ -1,0 +1,10 @@
+framework module UIComponents {
+  umbrella header "UIComponents.h"
+
+  export *
+  module * { export * }
+}
+
+module UIComponents.Swift {
+    header "UIComponents-Swift.h"
+}

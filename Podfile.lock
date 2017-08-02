@@ -1,0 +1,227 @@
+PODS:
+  - AECoreDataUI (4.0.0)
+  - AERecord (4.0.0)
+  - Alamofire (4.5.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - Branch (0.16.2):
+    - Branch/Core (= 0.16.2)
+    - Branch/without-IDFA (= 0.16.2)
+    - Branch/without-Safari (= 0.16.2)
+  - Branch/Core (0.16.2)
+  - Branch/without-IDFA (0.16.2)
+  - Branch/without-Safari (0.16.2)
+  - BSGridCollectionViewLayout (1.2.0)
+  - BSImagePicker (2.6.0):
+    - BSGridCollectionViewLayout (~> 1.2.0)
+    - UIImageViewModeScaleAspect (= 1.5)
+  - Crashlytics (3.8.5):
+    - Fabric (~> 1.6.3)
+  - Dollar (6.2.1)
+  - DZNEmptyDataSet (1.8.1)
+  - EasyTipView (1.0.2)
+  - Fabric (1.6.12)
+  - FBSDKCoreKit (4.20.2):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.20.2):
+    - FBSDKCoreKit
+  - FBSDKShareKit (4.20.2):
+    - FBSDKCoreKit
+  - FirebaseAnalytics (3.9.0):
+    - FirebaseCore (~> 3.6)
+    - FirebaseInstanceID (~> 1.0)
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseCore (3.6.0):
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseInstanceID (1.0.10):
+    - FirebaseCore (~> 3.6)
+  - Google/Analytics (3.1.0):
+    - Google/Core
+    - GoogleAnalytics (~> 3.12)
+  - Google/Core (3.1.0):
+    - FirebaseAnalytics (~> 3.2)
+  - GoogleAnalytics (3.17.0)
+  - GoogleSignIn (4.0.2):
+    - GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)
+    - GoogleToolboxForMac/NSString+URLArguments (~> 2.1)
+    - GTMOAuth2 (~> 1.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleToolboxForMac/DebugUtils (2.1.1):
+    - GoogleToolboxForMac/Defines (= 2.1.1)
+  - GoogleToolboxForMac/Defines (2.1.1)
+  - GoogleToolboxForMac/NSData+zlib (2.1.1):
+    - GoogleToolboxForMac/Defines (= 2.1.1)
+  - GoogleToolboxForMac/NSDictionary+URLArguments (2.1.1):
+    - GoogleToolboxForMac/DebugUtils (= 2.1.1)
+    - GoogleToolboxForMac/Defines (= 2.1.1)
+    - GoogleToolboxForMac/NSString+URLArguments (= 2.1.1)
+  - GoogleToolboxForMac/NSString+URLArguments (2.1.1)
+  - GTMOAuth2 (1.1.4):
+    - GTMSessionFetcher (~> 1.1)
+  - GTMSessionFetcher (1.1.11):
+    - GTMSessionFetcher/Full (= 1.1.11)
+  - GTMSessionFetcher/Core (1.1.11)
+  - GTMSessionFetcher/Full (1.1.11):
+    - GTMSessionFetcher/Core (= 1.1.11)
+  - ImageSlideshow (1.3.2):
+    - ImageSlideshow/Core (= 1.3.2)
+  - ImageSlideshow/Alamofire (1.3.2):
+    - AlamofireImage (~> 3.0)
+    - ImageSlideshow/Core
+  - ImageSlideshow/Core (1.3.2)
+  - Nimble (7.0.1)
+  - ok-ios-sdk (2.0.14)
+  - PromiseKit (4.2.2):
+    - PromiseKit/Foundation (= 4.2.2)
+    - PromiseKit/QuartzCore (= 4.2.2)
+    - PromiseKit/UIKit (= 4.2.2)
+  - PromiseKit/CorePromise (4.2.2)
+  - PromiseKit/Foundation (4.2.2):
+    - PromiseKit/CorePromise
+  - PromiseKit/QuartzCore (4.2.2):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (4.2.2):
+    - PromiseKit/CorePromise
+  - Quick (1.1.0)
+  - Reusable (4.0.0):
+    - Reusable/Storyboard (= 4.0.0)
+    - Reusable/View (= 4.0.0)
+  - Reusable/Storyboard (4.0.0)
+  - Reusable/View (4.0.0)
+  - RKTagsView (1.3.0)
+  - Roots (0.1.1)
+  - RxCocoa (3.6.0):
+    - RxSwift (~> 3.6)
+  - RxCoreData (0.3.1):
+    - RxCocoa (~> 3.0)
+    - RxSwift (~> 3.0)
+  - RxDataSources (1.0.4):
+    - RxCocoa (~> 3.0)
+    - RxSwift (~> 3.0)
+  - RxSwift (3.6.0)
+  - Spring (1.0.3)
+  - SwiftyJSON (3.1.4)
+  - TPKeyboardAvoiding (1.3.1)
+  - TwitterCore (3.0.0)
+  - TwitterKit (3.0.3):
+    - TwitterCore (>= 3.0.0)
+  - UIImageViewModeScaleAspect (1.5)
+  - UnderKeyboard (8.0.3)
+  - VK-ios-sdk (1.4.6)
+  - XLActionController (3.0.1):
+    - XLActionController/Core (= 3.0.1)
+  - XLActionController/Core (3.0.1)
+  - youtube-ios-player-helper (0.1.6)
+
+DEPENDENCIES:
+  - AECoreDataUI
+  - AERecord
+  - Alamofire
+  - AlamofireImage
+  - Branch
+  - BSImagePicker
+  - Crashlytics
+  - Dollar
+  - DZNEmptyDataSet
+  - EasyTipView (~> 1.0.2)
+  - Fabric
+  - FBSDKCoreKit (~> 4.20.0)
+  - FBSDKLoginKit (~> 4.20.0)
+  - FBSDKShareKit (~> 4.20.0)
+  - Google/Analytics
+  - GoogleSignIn (~> 4.0.2)
+  - ImageSlideshow (~> 1.2)
+  - ImageSlideshow/Alamofire
+  - Nimble
+  - ok-ios-sdk (~> 2.0)
+  - PromiseKit
+  - Quick
+  - Reusable (~> 4.0)
+  - RKTagsView
+  - Roots
+  - RxCocoa
+  - RxCoreData
+  - RxDataSources
+  - RxSwift
+  - Spring (from `https://github.com/MengTo/Spring.git`, branch `swift3`)
+  - SwiftyJSON
+  - TPKeyboardAvoiding
+  - TwitterKit (~> 3.0.2)
+  - UnderKeyboard (~> 8.0)
+  - VK-ios-sdk (~> 1.4)
+  - XLActionController
+  - youtube-ios-player-helper (from `https://github.com/SelfishInc/youtube-ios-player-helper`)
+
+EXTERNAL SOURCES:
+  Spring:
+    :branch: swift3
+    :git: https://github.com/MengTo/Spring.git
+  youtube-ios-player-helper:
+    :git: https://github.com/SelfishInc/youtube-ios-player-helper
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: 8201b5c93bd7ebdf4cd18160bcde1e6e88c2be64
+    :git: https://github.com/MengTo/Spring.git
+  youtube-ios-player-helper:
+    :commit: 44ce64b755bf0fe9fa42d3460c117e9cf03dddef
+    :git: https://github.com/SelfishInc/youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  AECoreDataUI: f6cea84727c5ec8b2836d155cac5712839f79168
+  AERecord: 3a14a25972dc60ed7c7b3fd62f62a5fc32ef6edd
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  Branch: 41b7ee6b45f914cf58c10a9d555ac802142bc91c
+  BSGridCollectionViewLayout: 8f12c8e1e08c47057f5a39a6828f4395f043d78f
+  BSImagePicker: 7b740d0a9f23160bcdca01f179445583bd1c09b0
+  Crashlytics: dfbae35ef22ca189240d230ad501feea4ee85d2d
+  Dollar: 197e92d0fc1ded259363f33f883704b7b550472b
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  EasyTipView: b93a19be981cc2221d6d7191d49872f547e0bebf
+  Fabric: f050464eac45a2ce5a8e6e6a07e977c0df32fe28
+  FBSDKCoreKit: 82eac696eb6157da5f4266c3a241f00e9bd72471
+  FBSDKLoginKit: 2211bede07c83391349eacc1fd86cf6d9289ce38
+  FBSDKShareKit: ca9b22264ea49a896dafb2467c1a4f72aa41996f
+  FirebaseAnalytics: e5fe8486efc01bec33f6bf82e2fa9fce4b124052
+  FirebaseCore: 9691ee2ade70c098d7cf92440f4303f16d83ca75
+  FirebaseInstanceID: b9eedd6846fb5e1f0f7279e1deaa7a7e4cf8392e
+  Google: 98da4b1a60ed0beb80a290387a28333406a1eb90
+  GoogleAnalytics: f42cc53a87a51fe94334821868d9c8481ff47a7b
+  GoogleSignIn: d7ad83f13480e1f30453471d00d19b5293ac46af
+  GoogleToolboxForMac: 8e329f1b599f2512c6b10676d45736bcc2cbbeb0
+  GTMOAuth2: 7fc9c10f5c745f4d9850419ea88889fe3baa6b7d
+  GTMSessionFetcher: 5ad62e8200fa00ed011fe5e08d27fef72c5b1429
+  ImageSlideshow: a68a76fc618ebd2b7481ce355ad67d7097203976
+  Nimble: 657d000e11df8aebe27cdaf9d244de7f30ed87f7
+  ok-ios-sdk: 30c84b4026386f21f21a3f956e1bd51fa5540b7d
+  PromiseKit: 00e8886881f151c7e573d06b437915b0bb2970ec
+  Quick: dafc587e21eed9f4cab3249b9f9015b0b7a7f71d
+  Reusable: 98e5fff1e0e2e00872199699b276dde08ee56c07
+  RKTagsView: a2d5b8e4c4a6b2deea56c82968c96509fa7d399d
+  Roots: 57384eb73ff5f32b2eb0343ad4f3e377117cd120
+  RxCocoa: cb865569239ebf1b1434056e5c8859d99dff103a
+  RxCoreData: e8fbeaee6eab8b900a22ff4a677f099987adb429
+  RxDataSources: b3389acc5fe2eefb8fcd81a2b76a876ad08bc82a
+  RxSwift: a0925c7fb11fbe60055285f6f2062241aa37a175
+  Spring: 3f02b5dc3308572ef177b3cad0fa7bbc4b0706f7
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  TPKeyboardAvoiding: 0d6af20e95e2850f4c621841225b59ec7d8dd852
+  TwitterCore: 8ce250be1eb34633a0e6acc89520d4165ec52c10
+  TwitterKit: 202404be71aadd81d19f677b34579fe77d9cb67e
+  UIImageViewModeScaleAspect: 11a790a0b9d248a13dc63e3a78991f1463b6d84e
+  UnderKeyboard: 5a2e2cf7eab78711bad2c58167ddd4ab8b463112
+  VK-ios-sdk: 7fd48bc5aaa6b96c3197c1987eb6593f2ea67331
+  XLActionController: 57fe0ce1642e2eed971b188b490762345fdbf963
+  youtube-ios-player-helper: 21ab92db027c7ff86cb17a3843a3f6eafc8158d2
+
+PODFILE CHECKSUM: d65c31a3eaf2ad8607ed601b05216be895b2b7cf
+
+COCOAPODS: 1.2.1

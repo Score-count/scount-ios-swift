@@ -1,3 +1,3 @@
-# SwiftyStoria
+# SwiftyScount
 
 #scount-ios-swift
